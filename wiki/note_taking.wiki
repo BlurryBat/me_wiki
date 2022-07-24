@@ -1,2 +1,4 @@
-* vim wiki based
-* hosted on github
+* [X] vim wiki based
+* [X] hosted on github
+* [ ] auto push on save
+* [ ] github cicd for md to html ?

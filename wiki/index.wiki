@@ -1,2 +1,2 @@
-[[note_taking]]
-[[hacker_news]]
+* [[note_taking]]
+* [[hacker_news]]
